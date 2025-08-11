@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/aston_homework_3/aston_homework_3.iml" filepath="$PROJECT_DIR$/aston_homework_3/aston_homework_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/practice_Java.iml" filepath="$PROJECT_DIR$/.idea/practice_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/topic_Aggregation/topic_Aggregation.iml" filepath="$PROJECT_DIR$/topic_Aggregation/topic_Aggregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/topic_Association/topic_Association.iml" filepath="$PROJECT_DIR$/topic_Association/topic_Association.iml" />
