@@ -38,3 +38,9 @@ public class Adapter {
         laptop.plugIn(adapter);
     }
 }
+
+public class Adapter {
+    public static void main(String[] args) {
+
+    }
+}
