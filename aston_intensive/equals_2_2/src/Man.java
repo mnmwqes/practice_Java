@@ -12,4 +12,5 @@ public class Man {
 
         System.out.println(man1.equals(man2));
     }
+
 }
