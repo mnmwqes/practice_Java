@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="aston_homework_intensive_2" />
         <module name="user_service" />
+        <module name="notification_service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
