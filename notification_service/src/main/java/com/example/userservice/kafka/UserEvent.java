@@ -1,4 +1,4 @@
-package com.example.notification.kafka;
+package com.example.userservice.kafka;
 
 public class UserEvent {
     public enum Operation { CREATED, DELETED }

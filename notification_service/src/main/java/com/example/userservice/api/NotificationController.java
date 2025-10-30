@@ -1,6 +1,6 @@
-package com.example.notification.api;
+package com.example.userservice.api;
 
-import com.example.notification.mail.EmailService;
+import com.example.userservice.mail.EmailService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
